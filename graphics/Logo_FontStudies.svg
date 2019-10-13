@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="698.78196"
-     inkscape:cy="697.1786"
+     inkscape:zoom="2.8"
+     inkscape:cx="556.58945"
+     inkscape:cy="179.91553"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="958"
+     inkscape:window-height="1048"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="false" />
   <metadata
      id="metadata5">
@@ -53,6 +53,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.18330871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 183.90387,122.63855 27.55378,0.44651 -28.31473,2.37574 1.43661,-1.34322 z"
+       id="path4720"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.18330871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 179.473,125.45955 -26.93958,-0.44652 26.94457,-1.99776 -0.0665,0.96525 z"
+       id="path4720-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.10936589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 183.15077,125.46023 -0.68753,10.61589 -1.46987,-9.82317 v 0 c 0.85031,-0.0325 1.68426,0.89866 2.1574,-0.79272 z"
+       id="path4720-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.10936589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 180.80838,122.37772 0.83917,-11.05801 1.7176,10.49812 -0.31079,0.0273 c -1.16569,-0.20173 -2.39449,-0.88774 -2.24598,0.53258 z"
+       id="path4720-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:RomanD;-inkscape-font-specification:RomanD;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
@@ -438,5 +461,39 @@
          x="82.743446"
          y="165.84529"
          style="stroke-width:0.26458332;font-style:italic">PROXIMA</tspan></text>
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.18330871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 145.83298,247.16395 27.55378,0.44651 -28.31473,2.37574 1.43661,-1.34322 z"
+       id="path4720-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.18330871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 141.40211,249.98495 -26.93958,-0.44652 26.94457,-1.99776 -0.0665,0.96525 z"
+       id="path4720-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.10936589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 145.07988,249.98563 -0.68753,10.61589 -1.46987,-9.82317 v 0 c 0.85031,-0.0325 1.68425,0.89866 2.1574,-0.79272 z"
+       id="path4720-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.10936589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 142.73749,246.90312 0.83917,-11.05801 1.71759,10.49812 -0.31078,0.0273 c -1.16569,-0.20173 -2.3945,-0.88774 -2.24598,0.53258 z"
+       id="path4720-3-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.15977"
+       y="251.24712"
+       id="text76-8"><tspan
+         sodipodi:role="line"
+         id="tspan74-2"
+         x="126.15977"
+         y="251.24712"
+         style="stroke-width:0.26458332">PROXIMA</tspan></text>
   </g>
 </svg>

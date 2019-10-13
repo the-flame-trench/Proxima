@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1523"
+   sodipodi:docname="LogoNoLine.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs1517" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="189.6971"
+     inkscape:cy="348.14492"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1520">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.27496305px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 113.23155,155.55976 41.33067,0.66976 -42.4721,3.56361 2.15492,-2.01483 z"
+       id="path4720-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.27496305px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 106.58524,159.79126 -40.409364,-0.66978 40.416854,-2.99664 -0.0998,1.44787 z"
+       id="path4720-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.16404884px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 112.1019,159.79228 -1.0313,15.92383 -2.2048,-14.73475 v 0 c 1.27546,-0.0487 2.52637,1.34799 3.2361,-1.18908 z"
+       id="path4720-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffd42a;stroke:none;stroke-width:0.16404884px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 108.58831,155.16851 1.25876,-16.58701 2.57638,15.74718 -0.46617,0.041 c -1.74853,-0.3026 -3.59175,-1.33161 -3.36897,0.79887 z"
+       id="path4720-3-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999886px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39687496"
+       x="83.721733"
+       y="161.68451"
+       id="text76-8"><tspan
+         sodipodi:role="line"
+         id="tspan74-2"
+         x="83.721733"
+         y="161.68451"
+         style="stroke-width:0.39687496">PROXIMA</tspan></text>
+  </g>
+</svg>
