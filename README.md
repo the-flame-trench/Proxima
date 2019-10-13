@@ -1,4 +1,4 @@
-![Logo](graphics/Logo_NoLine_White_.png)
+![Logo](graphics/Logo_NoLine_White.png)
 
 # Proxima
 Repo for the open source Proxima AstroCamera family
