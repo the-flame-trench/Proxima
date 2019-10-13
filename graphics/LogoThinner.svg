@@ -15,8 +15,8 @@
    version="1.1"
    id="svg168"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Logo.svg"
-   inkscape:export-filename="C:\Users\darkb\Google Drive\The Flame Trench\Proxima_AstroCam\Proxima\graphics\LogoWhiteBackground.png"
+   sodipodi:docname="LogoThinner.svg"
+   inkscape:export-filename="C:\Users\darkb\Google Drive\The Flame Trench\Proxima_AstroCam\Proxima\graphics\LogoThinnerWhiteBackground.png"
    inkscape:export-xdpi="431.06"
    inkscape:export-ydpi="431.06">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="430.32148"
-     inkscape:cy="657.18265"
+     inkscape:zoom="3.959798"
+     inkscape:cx="367.28927"
+     inkscape:cy="697.75995"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,24 +75,25 @@
      id="layer2"
      inkscape:label="Refraction ">
     <path
-       style="fill:#ffd42a;stroke:none;stroke-width:0.22913587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 99.064375,112.5864 27.553785,0.69767 -28.314735,3.7121 1.436606,-2.09879 z"
+       style="fill:#ffd42a;stroke:none;stroke-width:0.18330871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 99.064375,113.37981 27.553785,0.44651 -28.314735,2.37574 1.436606,-1.34322 z"
        id="path4720"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffd42a;stroke:none;stroke-width:0.22913587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 95.247711,116.99421 -27.553784,-0.69767 28.314734,-3.7121 -1.43661,2.09879 z"
+       style="fill:#ffd42a;stroke:none;stroke-width:0.18330871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 94.6335,116.20081 -26.939573,-0.44652 26.94457,-1.99776 -0.06645,0.96525 z"
        id="path4720-3"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ffd42a;stroke:none;stroke-width:0.12888893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 98.727429,116.20149 -0.954901,10.61589 -2.041489,-9.82317 v 0 c 1.180998,-0.0325 2.33925,0.89866 2.99639,-0.79272 z"
+       style="fill:#ffd42a;stroke:none;stroke-width:0.10936589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 98.311271,116.20149 -0.687529,10.61589 -1.469872,-9.82317 v 0 c 0.850318,-0.0325 1.68426,0.89866 2.157401,-0.79272 z"
        id="path4720-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ffd42a;stroke:none;stroke-width:0.12888893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 95.474122,113.11898 1.165505,-11.05801 2.385557,10.49812 -0.431648,0.0273 c -1.619016,-0.20173 -3.325684,-0.88774 -3.119414,0.53258 z"
+       style="fill:#ffd42a;stroke:none;stroke-width:0.10936589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 95.968889,113.11898 0.839164,-11.05801 1.717601,10.49812 -0.310786,0.0273 c -1.165692,-0.20173 -2.394493,-0.88774 -2.245979,0.53258 z"
        id="path4720-3-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
