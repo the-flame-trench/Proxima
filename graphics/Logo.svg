@@ -32,7 +32,7 @@
      inkscape:cx="430.32148"
      inkscape:cy="657.18265"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -47,10 +47,29 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Background">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
+       id="rect829"
+       width="68.035706"
+       height="30.994038"
+       x="63.783482"
+       y="99.318451" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
+       id="rect831"
+       width="3.3072834"
+       height="0.56697518"
+       x="141.74107"
+       y="130.02901" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
