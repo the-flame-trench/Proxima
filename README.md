@@ -2,11 +2,9 @@
 Repo for the open source Proxima AstroCamera family
 
 ## About
-------
 The Proxima AstroCamera is a general purpose CCD imager intended for use for amateur astrophotography and citizen science/outreach.  The project aligns closely with [The Flame Trench](http://theflametrench.com)'s [Gaze](http://theflametrench.com/flagship#/gaze) robotic observatory project.  The intent is to develop a configurable CCD front-end and ASCOM compatible, FPGA-based back-end compute module.
 
 ## Specifications
------
 The following are provisional design goals of the Proxima project:
 * DSLR CCD 
    * mono/bayered
