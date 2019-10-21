@@ -622,4 +622,22 @@ Wire Wire Line
 	10700 6400 11500 6400
 Wire Wire Line
 	10700 6300 11700 6300
+$Comp
+L My_CONNECTORS:ASP-134603-01 J1
+U 1 1 5DAE5D35
+P 2200 1000
+F 0 "J1" H 2700 1265 50  0000 C CNN
+F 1 "ASP-134603-01" H 2700 1174 50  0000 C CNN
+F 2 "My_CONNECTORS:ASP-134604-01" H 3050 1100 50  0001 L CNN
+F 3 "http://www.farnell.com/cad/1838619.pdf" H 3050 1000 50  0001 L CNN
+F 4 "SAMTEC - ASP-134603-01 - CONN, VITA 57 FMC, RCPT, 160POS, 4ROW" H 3050 900 50  0001 L CNN "Description"
+F 5 "SAMTEC" H 3050 700 50  0001 L CNN "Manufacturer_Name"
+F 6 "ASP-134603-01" H 3050 600 50  0001 L CNN "Manufacturer_Part_Number"
+F 7 "200-ASP-134603-01" H 3050 500 50  0001 L CNN "Mouser Part Number"
+F 8 "https://www.mouser.com/Search/Refine.aspx?Keyword=200-ASP-134603-01" H 3050 400 50  0001 L CNN "Mouser Price/Stock"
+F 9 "1593659" H 3050 300 50  0001 L CNN "RS Part Number"
+F 10 "http://uk.rs-online.com/web/p/products/1593659" H 3050 200 50  0001 L CNN "RS Price/Stock"
+	1    2200 1000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
