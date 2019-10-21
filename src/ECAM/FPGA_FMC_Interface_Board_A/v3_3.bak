@@ -455,7 +455,7 @@ Wire Wire Line
 Text GLabel 7300 3300 2    70   BiDi ~ 0
 ADC9
 $Comp
-L v3-eagle-import:FRAME_A_L #FRAME3
+L FPGA_FMC_Interface_Board-rescue:FRAME_A_L-v3-eagle-import #FRAME3
 U 1 1 23832320
 P 1100 8800
 AR Path="/23832320" Ref="#FRAME3"  Part="1" 
@@ -468,7 +468,7 @@ F 3 "" H 1100 8800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L v3-eagle-import:FRAME_A_L #FRAME3
+L FPGA_FMC_Interface_Board-rescue:FRAME_A_L-v3-eagle-import #FRAME3
 U 2 1 2383232C
 P 7900 8800
 AR Path="/2383232C" Ref="#FRAME3"  Part="2" 
@@ -481,7 +481,7 @@ F 3 "" H 7900 8800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L v3-eagle-import:GND #GND21
+L FPGA_FMC_Interface_Board-rescue:GND-v3-eagle-import #GND21
 U 1 1 FF2A2D77
 P 5900 6600
 AR Path="/FF2A2D77" Ref="#GND21"  Part="1" 
@@ -494,7 +494,7 @@ F 3 "" H 5900 6600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L v3-eagle-import:+3V3 #+3V19
+L FPGA_FMC_Interface_Board-rescue:+3V3-v3-eagle-import #+3V19
 U 1 1 36055ABC
 P 7900 6300
 AR Path="/36055ABC" Ref="#+3V19"  Part="1" 
@@ -507,7 +507,7 @@ F 3 "" H 7900 6300 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L v3-eagle-import:+3V3 #+3V20
+L FPGA_FMC_Interface_Board-rescue:+3V3-v3-eagle-import #+3V20
 U 1 1 52382237
 P 11800 6300
 AR Path="/52382237" Ref="#+3V20"  Part="1" 
@@ -520,7 +520,7 @@ F 3 "" H 11800 6300 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L v3-eagle-import:GND #GND22
+L FPGA_FMC_Interface_Board-rescue:GND-v3-eagle-import #GND22
 U 1 1 A44C21B7
 P 9600 6600
 AR Path="/A44C21B7" Ref="#GND22"  Part="1" 
@@ -533,7 +533,7 @@ F 3 "" H 9600 6600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L v3-eagle-import:FE05-2 JP2
+L FPGA_FMC_Interface_Board-rescue:FE05-2-v3-eagle-import JP2
 U 1 1 BAFA783C
 P 6700 3200
 AR Path="/BAFA783C" Ref="JP2"  Part="1" 
@@ -546,7 +546,7 @@ F 3 "" H 6700 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L v3-eagle-import:FE25-2 SV2
+L FPGA_FMC_Interface_Board-rescue:FE25-2-v3-eagle-import SV2
 U 1 1 3E7D897A
 P 6700 5100
 AR Path="/3E7D897A" Ref="SV2"  Part="1" 
@@ -561,7 +561,7 @@ F 5 "unknown" H 6550 3600 59  0001 L BNN "OC_NEWARK"
 	1    0    0    -1  
 $EndComp
 $Comp
-L v3-eagle-import:+5V #P+4
+L FPGA_FMC_Interface_Board-rescue:+5V-v3-eagle-import #P+4
 U 1 1 459FCD94
 P 11600 6400
 AR Path="/459FCD94" Ref="#P+4"  Part="1" 
@@ -574,7 +574,7 @@ F 3 "" H 11600 6400 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L v3-eagle-import:+5V #P+5
+L FPGA_FMC_Interface_Board-rescue:+5V-v3-eagle-import #P+5
 U 1 1 57F4DC09
 P 7700 6400
 AR Path="/57F4DC09" Ref="#P+5"  Part="1" 
@@ -587,7 +587,7 @@ F 3 "" H 7700 6400 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L v3-eagle-import:FE25-2 SV1
+L FPGA_FMC_Interface_Board-rescue:FE25-2-v3-eagle-import SV1
 U 1 1 1FCB83CC
 P 10400 5100
 AR Path="/1FCB83CC" Ref="SV1"  Part="1" 
@@ -602,7 +602,7 @@ F 5 "unknown" H 10250 3600 59  0001 L BNN "OC_NEWARK"
 	1    0    0    -1  
 $EndComp
 $Comp
-L v3-eagle-import:GND #GND35
+L FPGA_FMC_Interface_Board-rescue:GND-v3-eagle-import #GND35
 U 1 1 A522C48C
 P 6100 3600
 AR Path="/A522C48C" Ref="#GND35"  Part="1" 
@@ -628,7 +628,7 @@ U 1 1 5DAE5D35
 P 2200 1000
 F 0 "J1" H 2700 1265 50  0000 C CNN
 F 1 "ASP-134603-01" H 2700 1174 50  0000 C CNN
-F 2 "ASP-134604-01" H 3050 1100 50  0001 L CNN
+F 2 "My_CONNECTORS:ASP-134604-01" H 3050 1100 50  0001 L CNN
 F 3 "http://www.farnell.com/cad/1838619.pdf" H 3050 1000 50  0001 L CNN
 F 4 "SAMTEC - ASP-134603-01 - CONN, VITA 57 FMC, RCPT, 160POS, 4ROW" H 3050 900 50  0001 L CNN "Description"
 F 5 "SAMTEC" H 3050 700 50  0001 L CNN "Manufacturer_Name"

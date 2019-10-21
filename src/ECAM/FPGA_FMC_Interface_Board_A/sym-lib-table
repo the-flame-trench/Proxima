@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name v3-eagle-import)(type Legacy)(uri ${KIPRJMOD}/v3-eagle-import.lib)(options "")(descr ""))
+  (lib (name FPGA_FMC_Interface_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/FPGA_FMC_Interface_Board-rescue.lib)(options "")(descr ""))
 )
